@@ -1,5 +1,7 @@
 # SFTP from Phone to Home PC
 
+## THIS PROJECT IS STILL A WIP
+
 ## Story
 
 My phone is running out of storage. Apple iCloud storage costs money. I am in desperate need of free Cloud Storage, so I am making my own.
