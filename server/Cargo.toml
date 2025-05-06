@@ -5,3 +5,6 @@ edition = "2021"
 
 [dependencies]
 actix-web = "4.0.0"
+actix-multipart = "0.6.0"
+sanitize-filename = "0.4.0" # Or use latest stable version
+futures-util = { version = "0.3", features = ["io"] }
